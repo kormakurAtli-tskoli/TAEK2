@@ -15,3 +15,11 @@ ESD stendur fyrir Electrostatic Discharge. Það er þegar stöðurafmagnið er 
 
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 Hversu mörg wött hann er, hvort hann sé 80+ rated, stærðin (Hvort hann passi í kassann)
+
+### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+1. Finna vandamálið
+2. Hugsa hver ástæðan gæti verið
+3. Athuga hvort sú ástæða sé rétt
+4. Áætla hvað þú ætlar að gera
+5. Athuga hvað virkar og hvað virkar ekki og sjá til þess að allt virki ef það virkar ekki
+6. Leita að vandamálinu á netinu og skrifa það niður ef það er ekki til n´´u þegar einhversstaðar á veraldarvefnum
