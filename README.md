@@ -6,3 +6,6 @@ Random Access Memory
 
 ### 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 Read-Only Memory
+
+### 3. Hvað er fyrirbyggjandi viðhald?
+Einfaldlega öryggisaðgerðir til þess að vera viðbúinn óvæntum óhöppum
