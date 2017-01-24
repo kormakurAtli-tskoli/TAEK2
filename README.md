@@ -23,3 +23,8 @@ Hversu mörg wött hann er, hvort hann sé 80+ rated, stærðin (Hvort hann pass
 4. Áætla hvað þú ætlar að gera
 5. Athuga hvað virkar og hvað virkar ekki og sjá til þess að allt virki ef það virkar ekki
 6. Leita að vandamálinu á netinu og skrifa það niður ef það er ekki til n´´u þegar einhversstaðar á veraldarvefnum
+
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+Við opinni spurningu getur svarið verið langt, og/eða oft leitt til margra annara spurninga, en lokuð spurning hefur eitt svar og búið.
+Dæmi um opna spurningu: "Hvað finnst þér um hegðun unglinga nú á dögum?"
+Dæmi um lokaða spurningu: "Ert þú í skóla?"
