@@ -28,3 +28,6 @@ Hversu mörg wött hann er, hvort hann sé 80+ rated, stærðin (Hvort hann pass
 Við opinni spurningu getur svarið verið langt, og/eða oft leitt til margra annara spurninga, en lokuð spurning hefur eitt svar og búið.
 Dæmi um opna spurningu: "Hvað finnst þér um hegðun unglinga nú á dögum?"
 Dæmi um lokaða spurningu: "Ert þú í skóla?"
+
+### 8. Hvað eru jaðartæki?
+Jaðartæki eru tæki sem hjálpa okkur að hafa samband við, og nota tölvuna. Jaðartæki geta verið bæði input og output tæki.
