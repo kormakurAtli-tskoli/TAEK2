@@ -47,4 +47,4 @@ Seagate Barracuda 2TB HDD | *Ódýrið* | `11.890.-`
 Fractal Design Define Nano S | *Tölvutek* | `19.990.-`
 Xigmatek X-Calibre 600W | *Kísildalur* | `9.500.-`
 MSI GTX 1080 8GB | *Att.is* | `111.950.-`
-Heildarupphæð | `245.015.-`
+**Heildarupphæð** || `245.015.-`
