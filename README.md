@@ -33,7 +33,7 @@ Dæmi um lokaða spurningu: "Ert þú í skóla?"
 Jaðartæki eru tæki sem hjálpa okkur að hafa samband við, og nota tölvuna. Jaðartæki geta verið bæði input og output tæki.
 
 ### 9. Nefndu þrjú dæmi um inntakstæki.
-Lyklaborð, mús og hljóðnemi
+Lyklaborð, mýs og hljóðnemar
 
 ### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 
