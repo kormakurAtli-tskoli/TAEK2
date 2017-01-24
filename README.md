@@ -34,3 +34,17 @@ Jaðartæki eru tæki sem hjálpa okkur að hafa samband við, og nota tölvuna.
 
 ### 9. Nefndu þrjú dæmi um inntakstæki.
 Lyklaborð, mús og hljóðnemi
+
+### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+Íhlutur | Verslun | Verð
+--- | --- | ---
+Intel Core i5 7600k | *Tölvutækni* | `38.900.-`
+Gigabyte Z170N-Gaming 5 | *Tölvutek* | `24.990.-`
+Corsair Vengeance 2x8GB | *Att.is* | `14.750.-`
+Toshiba 240GB SSD diskur | *Tölvulistinn* | `12.995.-`
+Seagate Barracuda 2TB HDD | *Ódýrið* | `11.890.-`
+Fractal Design Define Nano S | *Tölvutek* | `19.990.-`
+Xigmatek X-Calibre 600W | *Kísildalur* | `9.500.-`
+MSI GTX 1080 8GB | *Att.is* | `111.950.-`
+Heildarupphæð | `245.015.-`
