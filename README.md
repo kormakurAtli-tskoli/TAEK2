@@ -31,3 +31,6 @@ Dæmi um lokaða spurningu: "Ert þú í skóla?"
 
 ### 8. Hvað eru jaðartæki?
 Jaðartæki eru tæki sem hjálpa okkur að hafa samband við, og nota tölvuna. Jaðartæki geta verið bæði input og output tæki.
+
+### 9. Nefndu þrjú dæmi um inntakstæki.
+Lyklaborð, mús og hljóðnemi
